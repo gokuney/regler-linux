@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=regler
+Exec=regler
+Icon=com.personal.regler
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

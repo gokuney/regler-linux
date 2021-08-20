@@ -1,0 +1,7 @@
+data/com.personal.regler.desktop.in
+data/com.personal.regler.appdata.xml.in
+data/com.personal.regler.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
