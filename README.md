@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-GPL-yellow.svg" />
   </a>
   <a href="https://twitter.com/gokuney" target="_blank">
     <img alt="Twitter: gokuney" src="https://img.shields.io/twitter/follow/gokuney.svg?style=social" />
