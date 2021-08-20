@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Lixun client application to control machine
+> Linux client application to control machine
 
 ## Usage
 
